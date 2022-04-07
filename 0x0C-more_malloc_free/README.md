@@ -1,1 +1,1 @@
-0x0C. C - More malloc, free
+More tasks on malloc, calloc and free  C functions, alx C programming tasks
